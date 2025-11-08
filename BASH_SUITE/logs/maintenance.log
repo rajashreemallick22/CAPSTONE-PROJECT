@@ -1,0 +1,6 @@
+[2025-11-08 15:27:27] Scanning logs: /var/log/syslog /var/log/auth.log
+Found pattern: ERROR
+[2025-11-08 15:27:27] ALERT: suspicious log entries found
+[2025-11-08 15:27:40] Starting backup of /home/dibyajyoti-nayak/Documents -> /home/dibyajyoti-nayak/CAPSTONE_BACKUPS/dibyajyotinayak-Vostro-5620_2025-11-08_152740.tar.gz
+[2025-11-08 15:27:40] Backup saved: /home/dibyajyoti-nayak/CAPSTONE_BACKUPS/dibyajyotinayak-Vostro-5620_2025-11-08_152740.tar.gz
+[2025-11-08 15:28:06] Starting system update & cleanup
