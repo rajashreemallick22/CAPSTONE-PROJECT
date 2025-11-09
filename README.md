@@ -114,5 +114,5 @@ chmod +x *.sh
 ---
 
 ## 👨‍💻 Author
-**Dibyajyoti Nayak**  
+**Rajaqshree Mallick**  
 🎓 B.Tech (CSE), ITER, Siksha ’O’ Anusandhan University
